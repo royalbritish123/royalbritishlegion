@@ -1,0 +1,5 @@
+RoyalBritishLegion-qt usr/bin
+share/pixmaps/RoyalBritishLegion32.xpm usr/share/pixmaps
+share/pixmaps/RoyalBritishLegion80.xpm usr/share/pixmaps
+debian/RoyalBritishLegion-qt.desktop usr/share/applications
+debian/RoyalBritishLegion-qt.protocol usr/share/kde4/services/

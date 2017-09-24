@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RoyalBritishLegion
+Comment=RoyalBritishLegion P2P Cryptocurrency
+Comment[ru]=RoyalBritishLegion, P2P криптовалюта
+Comment[fr]=RoyalBritishLegion, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RoyalBritishLegion, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/RoyalBritishLegion-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/RoyalBritishLegion80.xpm
+MimeType=x-scheme-handler/RoyalBritishLegion;
+Categories=Office;

@@ -1,0 +1,11 @@
+[Unit]
+Description=RoyalBritishLegion daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=RoyalBritishLegion
+ExecStart=/opt/RoyalBritishLegion/RoyalBritishLegiond
+
+[Install]
+WantedBy=multi-user.target
